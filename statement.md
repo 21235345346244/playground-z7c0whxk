@@ -13,7 +13,17 @@ String message = "Hello World!";
 System.out.println(message);
 
 //{ autofold
-}
+}while true do
+	read enemy1
+	read dist1
+	read enemy2
+	read dist2
+	if (dist1 is smaller than dist2) then
+		print enemy1
+	else
+		print enemy2
+	end if
+    
 
 }
 //}
